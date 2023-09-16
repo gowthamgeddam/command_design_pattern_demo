@@ -1,0 +1,5 @@
+C:\Users\venka\source\repos\CommandDesignPattern\CommandPatternTests\obj\Debug\netcoreapp3.1\CommandPatternTests.csproj.AssemblyReference.cache
+C:\Users\venka\source\repos\CommandDesignPattern\CommandPatternTests\obj\Debug\netcoreapp3.1\CommandPatternTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venka\source\repos\CommandDesignPattern\CommandPatternTests\obj\Debug\netcoreapp3.1\CommandPatternTests.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\CommandDesignPattern\CommandPatternTests\obj\Debug\netcoreapp3.1\CommandPatternTests.AssemblyInfo.cs
+C:\Users\venka\source\repos\CommandDesignPattern\CommandPatternTests\obj\Debug\netcoreapp3.1\CommandPatternTests.csproj.CoreCompileInputs.cache

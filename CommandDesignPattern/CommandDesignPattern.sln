@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPattern", "CommandDesignPattern\CommandDesignPattern.csproj", "{87EC5838-8A53-48FC-9F33-62344888EB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPatternTests", "CommandPatternTests\CommandPatternTests.csproj", "{55DDA8A8-ABB5-4295-98F6-AD9B7A31FBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EC5838-8A53-48FC-9F33-62344888EB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EC5838-8A53-48FC-9F33-62344888EB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EC5838-8A53-48FC-9F33-62344888EB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EC5838-8A53-48FC-9F33-62344888EB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DDA8A8-ABB5-4295-98F6-AD9B7A31FBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DDA8A8-ABB5-4295-98F6-AD9B7A31FBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DDA8A8-ABB5-4295-98F6-AD9B7A31FBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DDA8A8-ABB5-4295-98F6-AD9B7A31FBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4EE29F-A8F9-469E-9641-83A18526A538}
+	EndGlobalSection
+EndGlobal
